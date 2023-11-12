@@ -81,7 +81,7 @@ plugins=(git gitfast docker docker-compose python git zsh-autosuggestions zsh-sy
 
 export ZSH_COMPDUMP=$ZSH/cache/.zcompdump-$HOST
 export HISTFILE=$ZSH/.zsh_history
-
+DISABLE_AUTO_UPDATE="true"
 source $ZSH/oh-my-zsh.sh
 
 # User configuration
