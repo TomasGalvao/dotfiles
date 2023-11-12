@@ -1,0 +1,6 @@
+[user]
+	name = Tomás Galvão
+	email = dev@tomasgalvao.me
+[alias]
+	clone-all = clone --recurse-submodules
+	pull-all = pull --recurse-submodules
