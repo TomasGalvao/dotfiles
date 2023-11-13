@@ -27,9 +27,9 @@
     exact: true
     stripComponents: 1
     refreshPeriod: 168h
-.oh-my-zsh/custom/plugins/zsh-fast-alias-tips:
+.oh-my-zsh/custom/plugins/alias-tips:
     type: archive
-    url: "https://github.com/decayofmind/zsh-fast-alias-tips/archive/master.tar.gz"
+    url: "https://github.com/djui/alias-tips/archive/master.tar.gz"
     exact: true
     stripComponente: 1
     refreshPeriod: 168h
