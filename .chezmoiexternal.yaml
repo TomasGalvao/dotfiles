@@ -31,5 +31,6 @@
     type: archive
     url: "https://github.com/djui/alias-tips/archive/master.tar.gz"
     path: "alias-tips/alias-tips-master"
-    stripComponente: 1
+    stripComponente: 2
+    exact: true
     refreshPeriod: 168h
