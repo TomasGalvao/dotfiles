@@ -30,6 +30,6 @@
 .oh-my-zsh/custom/plugins/alias-tips:
     type: archive
     url: "https://github.com/djui/alias-tips/archive/master.tar.gz"
-    exact: true
+    path: "alias-tips/alias-tips-master"
     stripComponente: 1
     refreshPeriod: 168h
