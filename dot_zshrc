@@ -142,7 +142,7 @@ function extract_and_remove {
   extract $1
   rm -f $1
 }
-alias unzip="extract_and_remove"
+alias ex="extract_and_remove"
 alias ls="exa --icons -F"
 alias ll="exa -l --icons -F"
 alias cat="bat --style=auto"
