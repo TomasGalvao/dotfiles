@@ -28,7 +28,7 @@ ENABLE_CORRECTION="true"
 
 # Standard plugins can be found in $ZSH/plugins/
 # Custom plugins may be added to $ZSH_CUSTOM/plugins/
-plugins=(git gitfast docker docker-compose python git zsh-autosuggestions zsh-syntax-highlighting thefuck fd autojump k alias-tips colored-man-pages)
+plugins=(git gitfast docker docker-compose python git zsh-autosuggestions zsh-syntax-highlighting thefuck fd autojump k alias-tips colored-man-pages sudo)
 
 export ZSH_COMPDUMP=$ZSH/cache/.zcompdump-$HOST
 export HISTFILE=$ZSH/.zsh_history
