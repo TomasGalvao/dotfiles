@@ -93,6 +93,6 @@ alias neofetch="fastfetch"
 alias unlock="rm /home/galvasz/.config/BraveSoftware/Brave-Browser/SingletonLock"
 alias config="chezmoi"
 alias ..="cd .."
-alias vim="vim"
+alias vim="lvim"
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
