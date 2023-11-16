@@ -94,5 +94,7 @@ alias unlock="rm /home/galvasz/.config/BraveSoftware/Brave-Browser/SingletonLock
 alias config="chezmoi"
 alias ..="cd .."
 alias vim="lvim"
+alias enable="sudo systemctl enable"
+alias start="sudo systemctl start"
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
