@@ -79,6 +79,7 @@ function extract_and_remove {
   rm -f $1
 }
 alias unzip="extract_and_remove"
+alias sudo="sudo "
 alias ls="exa --icons -F"
 alias ll="exa -l --icons -F"
 alias cat="bat --style=auto"
