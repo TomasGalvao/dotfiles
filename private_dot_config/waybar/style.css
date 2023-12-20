@@ -54,6 +54,7 @@ tooltip {
 #custom-weather,
 #window,
 #clock,
+#bluetooth,
 #battery,
 #pulseaudio,
 #network,
@@ -119,6 +120,10 @@ tooltip {
     border-right: 0px;
 }
 
+#backlight {
+    border-radius: 10px 0px 0px 10px;
+}
+
 #pulseaudio {
     color: #89b4fa;
     border-left: 0px;
@@ -135,9 +140,15 @@ tooltip {
 
 #battery {
     color: #a6e3a1;
-    border-radius: 0 10px 10px 0;
     margin-right: 10px;
     border-left: 0px;
+}
+
+#bluetooth {
+    color: #89b4fa;
+    border-radius: 0px 10px 10px 10px;
+    border-left: 0px;
+    border-right: 0px;
 }
 
 #custom-weather {
