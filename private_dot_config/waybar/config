@@ -17,7 +17,7 @@
         "custom/updates",
         "custom/language",
         "battery",
-       // "bluetooth",
+        "bluetooth",
         "backlight",
         "pulseaudio",
         "pulseaudio#microphone"
@@ -82,7 +82,7 @@
         "format-alt": "{time} {icon}",
         "format-icons": ["󰁺", "󰁻", "󰁼", "󰁽", "󰁾", "󰁿", "󰂀", "󰂁", "󰂂", "󰁹", "󰁹"]
     },
-    /* "bluetooth": {
+    "bluetooth": {
         "format": " {status}",
         "format-connected": " {device_alias}",
         "format-connected-battery": " {device_alias} {device_battery_percentage}%",
@@ -91,7 +91,7 @@
         "tooltip-format-enumerate-connected": "{device_alias}\t{device_address}",
         "tooltip-format-enumerate-connected-battery": "{device_alias}\t{device_address}\t{device_battery_percentage}%",
         "on-click": "blueman-manager"
-    }, */
+    },
     "pulseaudio": {
         "format": "{icon} {volume}%",
         "tooltip": false,
