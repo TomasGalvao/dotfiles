@@ -145,6 +145,10 @@ tooltip {
 
 }
 
+#network {
+    color: #f1dd69;
+}
+
 #bluetooth {
     color: #89b4fa;
     border-radius: 0px 10px 10px 0px;
