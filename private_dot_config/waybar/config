@@ -24,7 +24,8 @@
     ],
 
     "hyprland/window": {
-        "format": "{}"
+        "format": "{}",
+        "max-length": 50
     },
     "hyprland/workspaces": {
         "disable-scroll": true,
