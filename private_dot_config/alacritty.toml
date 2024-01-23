@@ -27,10 +27,8 @@ yellow = "0xd8a657"
 background = "0x1d2021"
 foreground = "0xd4be98"
 
-[cursor.style]
-blink-interval = 750
-blinking = "Always"
-shape = "UnderLine"
+[cursor]
+style = "Underline"
 
 [font]
 size = 13
