@@ -31,7 +31,7 @@
         "disable-scroll": true,
         "all-outputs": true,
         "on-click": "activate",
-        "format": "{icon}",
+        "format": "{name}",
         "persistent_workspaces": {
             "1": [],
             "2": [],
