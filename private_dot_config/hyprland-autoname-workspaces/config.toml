@@ -29,10 +29,9 @@ version = "1.1.13"
 # Add your icons mapping
 # use double quote the key and the value
 # take class name from 'hyprctl clients'
-"DEFAULT" = " {class}: {title}"
-"(?i)Kitty" = "term"
-"[Ff]irefox" = "browser"
-"(?i)waydroid.*" = "droid"
+"DEFAULT" = " {class}"
+"(?i)Alacritty" = "Terminal"
+"[Ff]lorp" = "Browser"
 
 [class_active]
 DEFAULT = "*{icon}*"
