@@ -68,7 +68,7 @@ mods = "Control"
 
 [[keyboard.bindings]]
 action = "SpawnNewInstance"
-key = "T"
+key = "Return"
 mods = "Control|Shift"
 
 [mouse]
