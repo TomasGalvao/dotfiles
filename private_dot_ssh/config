@@ -1,0 +1,5 @@
+AddKeysToAgent yes
+
+Host ninf
+        User root
+        Hostname ninf.ae.fct.unl.pt
