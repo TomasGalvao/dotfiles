@@ -41,6 +41,8 @@ bindkey '^H' backward-kill-word
 
 eval "$(register-python-argcomplete pipx)"
 
+export GPG_TTY=$(tty)
+
 # Preferred editor for local and remote sessions
 # if [[ -n $SSH_CONNECTION ]]; then
 #   export EDITOR='vim'

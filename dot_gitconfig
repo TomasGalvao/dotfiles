@@ -1,6 +1,9 @@
 [user]
 	name = Tomás Galvão
 	email = dev@tomasgalvao.me
+	signingkey = F5578BF89AFB76C0
 [alias]
 	clone = clone --recurse-submodules
 	pull = pull --recurse-submodules
+[commit]
+	gpgsign = true
