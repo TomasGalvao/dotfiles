@@ -7,3 +7,5 @@
 	pull = pull --recurse-submodules
 [commit]
 	gpgsign = true
+[push]
+	autoSetupRemote = true
