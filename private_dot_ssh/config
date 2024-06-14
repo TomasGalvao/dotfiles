@@ -3,3 +3,7 @@ AddKeysToAgent yes
 Host ninf
         User root
         Hostname ninf.ae.fct.unl.pt
+Host clusterDI
+	User t.galvao
+	Hostname cluster.di.fct.unl.pt
+	Port 12034
