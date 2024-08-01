@@ -43,6 +43,9 @@ eval "$(register-python-argcomplete pipx)"
 
 export GPG_TTY=$(tty)
 
+# Set up fzf key bindings and fuzzy completion
+source <(fzf --zsh)
+
 # Preferred editor for local and remote sessions
 # if [[ -n $SSH_CONNECTION ]]; then
 #   export EDITOR='vim'
